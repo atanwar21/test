@@ -1,1 +1,1 @@
-This is china file of the master branch
+This is updated china file of the master branch
